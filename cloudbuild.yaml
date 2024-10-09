@@ -3,6 +3,7 @@ steps:
   args: ['build', '-t', 'us-central1-docker.pkg.dev/cicd-437715/gke-repo/quickstart-image', './app1' ]
   id: 'Build Docker Image'
 
+
   # images:
   # - 'us-central1-docker.pkg.dev/cicd-437715/gke-repo/quickstart-image'
 
